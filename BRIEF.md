@@ -90,7 +90,7 @@ redo it if it reads as mush.
 ## Deliver
 
 `artifacts/` holds the 17 files above, plus for every pixel frame its native grid as
-`pNN-name@1x.png` (320×180) so we can recolour and animate it, plus `sheet.png` (all 17 small,
+`pNN-name-1x.png` (320×180) so we can recolour and animate it, plus `sheet.png` (all 17 small,
 in order, labelled by file name in plain text in the sheet's margins only).
 
 Inspect every frame before delivering it, and regenerate any that has text, numerals, a logo, a frog, a face,
