@@ -5,6 +5,8 @@ swarm. The swarm paints the background plates. The animation, lettering, sound a
 separately.
 
 - `BRIEF.md`: the style-frames brief (story, two visual styles, palettes, every frame).
+- `BRIEF-2.md`: round 2, character plates.
+- `BRIEF-3.md`: round 3, the device plates for the 35-second product film "One Terminal".
 - `refs/engraved/`: the engraved register (frames from our previous film, and the banknote).
 - `refs/pixel/`: the pixel register (our own pixel Pepe and the consensus grid).
 
